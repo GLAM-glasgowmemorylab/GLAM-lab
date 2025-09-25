@@ -1,0 +1,31 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    color: #0a0a23;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
+nav a {
+    text-decoration: none;
+    color: #003366;
+    font-weight: bold;
+}
+.logo {
+    height: 60px;
+}
+main {
+    padding: 20px;
+}
+h1 {
+    color: #003366;
+}
